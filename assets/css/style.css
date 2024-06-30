@@ -1,0 +1,55 @@
+.container-animation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: palevioletred;
+    padding: 20px;
+    border-bottom: solid 10px pink;
+    border-top: solid 10px pink;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.container img {
+    height: 130px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: transform 0.3s ease-out;
+}
+.container a {
+    position: relative;
+    font-size:25px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 40px;
+    transition: color .5s;
+}
+
+.container a:hover {
+    color: pink;
+}
+
+.container a::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: pink;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.5s ;
+}
+
+.container a:hover::before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+nav.container img:hover {
+    transform: scale(1.1);
+}
