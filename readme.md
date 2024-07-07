@@ -118,3 +118,4 @@ WD-ProjectName
 | Pinterest | Got photos for the feature designs | https://ph.pinterest.com/ |
 | CODEPEN | Got ideas for features | https://codepen.io/jphillippe |
 | Google Font | Got fonts | https://fonts.google.com/ |
+| W3Schools | Got ideas for HTML and CSS | https://www.w3schools.com/ |
