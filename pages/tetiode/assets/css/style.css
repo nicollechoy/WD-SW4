@@ -472,3 +472,16 @@ ul {
         width: 100%;
     }
 }
+
+
+.footer-info {
+    text-align: center;
+    margin-top: 10px;
+    flex-basis: 100%;
+  }
+
+  .footer-info p {
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+    color: #bbb;
+  }
