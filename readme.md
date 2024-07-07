@@ -116,3 +116,4 @@ WD-ProjectName
 | Fenty Beauty | Used as a product and look for design ideas | https://fentybeauty.com/ |
 | Rhode Skin | Used as a product and look for design ideas | https://www.rhodeskin.com/ |
 | Pinterest | Get photos for the feature designs | https://ph.pinterest.com/ |
+| CODEPEN | Get ideas for features | https://codepen.io/jphillippe |
