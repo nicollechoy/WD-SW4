@@ -502,6 +502,7 @@ button:hover {
     max-width: 1200px;
     margin: 20px auto;
     width: 80%;
+    flex-direction: row-reverse;
 }
 
 .image-section8 {
